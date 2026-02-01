@@ -150,4 +150,5 @@ li::before {
 ul {
     list-style: none;
     columns: 2;
+    text-align: left;
 }
